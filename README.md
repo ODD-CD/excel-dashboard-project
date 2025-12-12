@@ -56,7 +56,6 @@ O usuário pode segmentar todas as análises por:
 ## Ferramentas usadas
 
 * Excel
-* Power Query (se aplicável)
 * Tabelas Dinâmicas
 * Segmentadores e elementos interativos
 
