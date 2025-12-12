@@ -53,7 +53,7 @@ O usuário pode segmentar todas as análises por:
 * **Region**
 * **Education**
 
-## Tools Used
+## Ferramentas usadas
 
 * Excel
 * Power Query (se aplicável)
